@@ -64,7 +64,7 @@ uint16_t seg[10] =
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 /* USER CODE BEGIN PFP */
-uint8_t ReadButton(GPIO_TypeDef* btn_port, uint16_t btn_pin);
+
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
