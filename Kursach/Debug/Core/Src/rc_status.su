@@ -1,0 +1,2 @@
+../Core/Src/rc_status.c:3:6:RC_Update	16	static
+../Core/Src/rc_status.c:9:6:RC_PrintStatus	16	static

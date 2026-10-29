@@ -1,0 +1,2 @@
+../Core/Src/example.c:15:19:Display_Init	32	static
+../Core/Src/example.c:23:19:Display_Voltage	56	static

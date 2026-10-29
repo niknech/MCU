@@ -1,0 +1,8 @@
+../Core/Src/usart.c:41:6:MX_USART2_UART_Init	2
+../Core/Src/usart.c:69:6:HAL_UART_MspInit	2
+../Core/Src/usart.c:102:6:HAL_UART_MspDeInit	2
+../Core/Src/usart.c:128:6:UART_SendString	1
+../Core/Src/usart.c:133:6:UART_SendFloat	1
+../Core/Src/usart.c:141:6:HAL_UART_RxCpltCallback	8
+../Core/Src/usart.c:186:6:reverse_str	2
+../Core/Src/usart.c:196:6:my_ftoa	8

@@ -1,0 +1,14 @@
+../Core/Src/gmt020.c:8:13:select_display	16	static
+../Core/Src/gmt020.c:11:26:tx	24	static
+../Core/Src/gmt020.c:15:26:command	32	static
+../Core/Src/gmt020.c:26:26:reg8	16	static
+../Core/Src/gmt020.c:29:19:GMT_SetRotation	24	static
+../Core/Src/gmt020.c:38:19:GMT_Init	40	static
+../Core/Src/gmt020.c:75:26:window	32	static
+../Core/Src/gmt020.c:82:19:GMT_FillRect	328	static
+../Core/Src/gmt020.c:106:19:GMT_Fill	24	static
+../Core/Src/gmt020.c:110:19:GMT_Pixel	32	static
+../Core/Src/gmt020.c:113:19:GMT_Rect	40	static
+../Core/Src/gmt020.c:123:19:GMT_Line	64	static
+../Core/Src/gmt020.c:156:19:GMT_Text	80	static
+../Core/Src/gmt020.c:182:6:GMT_PrintPIDValues	80	static

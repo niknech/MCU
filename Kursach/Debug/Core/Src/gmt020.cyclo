@@ -1,0 +1,14 @@
+../Core/Src/gmt020.c:8:13:select_display	2
+../Core/Src/gmt020.c:11:26:tx	1
+../Core/Src/gmt020.c:15:26:command	3
+../Core/Src/gmt020.c:26:26:reg8	1
+../Core/Src/gmt020.c:29:19:GMT_SetRotation	8
+../Core/Src/gmt020.c:38:19:GMT_Init	34
+../Core/Src/gmt020.c:75:26:window	3
+../Core/Src/gmt020.c:82:19:GMT_FillRect	14
+../Core/Src/gmt020.c:106:19:GMT_Fill	2
+../Core/Src/gmt020.c:110:19:GMT_Pixel	1
+../Core/Src/gmt020.c:113:19:GMT_Rect	10
+../Core/Src/gmt020.c:123:19:GMT_Line	10
+../Core/Src/gmt020.c:156:19:GMT_Text	26
+../Core/Src/gmt020.c:182:6:GMT_PrintPIDValues	1
